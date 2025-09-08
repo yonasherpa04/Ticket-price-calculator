@@ -1,1 +1,1 @@
-# Ticket-price-calculator
+ Ticket price calculator
