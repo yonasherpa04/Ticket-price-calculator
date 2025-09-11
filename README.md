@@ -1,1 +1,2 @@
- Ticket price calculator
+used to calculate ticek price
+
