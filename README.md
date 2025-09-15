@@ -1,2 +1,2 @@
-used to calculate ticek price
+Calculates the price of the ticket
 
